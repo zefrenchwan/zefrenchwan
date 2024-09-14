@@ -14,10 +14,6 @@
 
 # What projects do you work on ?
 
-I work on personal projects in here, sometimes to help others, sometimes because I just want to create. 
-Hence, some projects are POC / Demo / concepts validating, to prove an idea, test a technology, validate a concept, create some base code for others to use. 
-Some projects are ready for prod, that is sort of MVP. Test effort and performance measures are sufficient to start using them in "real life" (personal opinion). 
-
 |   Name   |   Topic  |   Active | Confidence level |   Lang |
 |---    |:-:    |:-:    |:-:  |:-:   |
 | Nodz | Graphs | No | POC | Golang |
