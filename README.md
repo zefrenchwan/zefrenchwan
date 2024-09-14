@@ -6,12 +6,12 @@
 
 # What projects do you work on ?
 
-|   Name   |   Topic  |   Status |   Lang |
-|---    |:-:    |:-:    |:-:    |
-| Nodz | Graphs | Done | Golang |
-| Patterns | Graphs with time dependencies | Prod ready | Golang |
-| Monocle | webscraper and content analysis | Done | Python |
-| Recueil | reference data api | Exploring | Python |
+|   Name   |   Topic  |   Active | Confidence level |   Lang |
+|---    |:-:    |:-:    |:-:  |:-:   |
+| Nodz | Graphs | No | POC | Golang |
+| Patterns | Graphs with time dependencies | No | Prod ready | Golang |
+| Monocle | webscraper and content analysis | No | Demo | Python |
+| Recueil | reference data api | Yes | POC | Python |
 
 
 
