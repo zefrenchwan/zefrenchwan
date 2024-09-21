@@ -7,7 +7,7 @@
 # What do you offer ? 
 
 |   Name   |   Topic  |  Use case / Purpose | Technologies |
-|---    |:-:    |:-:    |:-:  |:-:   |
+|---    |:-:  |:-:  |:-:   |
 | [Patterns](https://github.com/zefrenchwan/patterns) | Graphs | Time dependent graphs database | Golang, Postgresql |
 | [Monocle](https://github.com/zefrenchwan/monocle) | OSINT cli | webscraper and content analysis | Python, spaCy |
 | [Recueil](https://github.com/zefrenchwan/recueil) | NLU | webapp to type tokens | Python, Postgresql |
