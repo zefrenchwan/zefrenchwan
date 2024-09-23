@@ -1,7 +1,7 @@
 # Who are you ? 
 
-* A french developer, old enough to know about java, young enough to not know about cobol. I work as a data engineer, usually in Java, Golang or Python. I worked a lot for banks and adtech companies.
-* My technical interests are networks science, python, NLP and dataviz. I also like golang for its speed, and C for its efficiency and style
+* A french developer, old enough to know about java, young enough to not know about cobol. My main job is to make data ready to talk (with courtesy, Hadoop and GCP)
+* My technical interests are networks science, NLP and dataviz
 
 # What do you offer ? 
 
