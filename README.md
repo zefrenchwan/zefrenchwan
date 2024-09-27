@@ -8,7 +8,7 @@
 |   Name   |   Topic  |  Use case / Purpose | Technologies |
 |---    |:-:  |:-:  |:-:   |
 | [Patterns](https://github.com/zefrenchwan/patterns) | Graphs | Time dependent graphs database | Golang, Postgresql |
-| [Monocle](https://github.com/zefrenchwan/monocle) | OSINT cli | webscraper and content analysis | Python, spaCy |
+| [Monocle](https://github.com/zefrenchwan/monocle) | Open source data collection | webscraper and content analysis | Python, spaCy |
 | [Recueil](https://github.com/zefrenchwan/recueil) | NLP | webapp to type tokens | Python, Postgresql, Docker |
 | [Nodz](https://github.com/zefrenchwan/nodz) | Network science | Random graphs and percolation  demo | Golang, GEXF |
 | [Panorama](https://github.com/zefrenchwan/panorama) | Analytics | Collect data and display trends | Docker, Node.js, Selenium, Python |
