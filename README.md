@@ -5,13 +5,32 @@
 
 # What do you offer ? 
 
+## Graphs
+
 |   Name   |   Topic  |  Use case / Purpose | Technologies |
 |---    |:-:  |:-:  |:-:   |
 | [Patterns](https://github.com/zefrenchwan/patterns) | Graphs | Time dependent graphs database | Golang, Postgresql |
-| [Monocle](https://github.com/zefrenchwan/monocle) | Data collection | webscraper and content analysis | Python, spaCy |
-| [Recueil](https://github.com/zefrenchwan/recueil) | NLP | webapp to type tokens | Python, Postgresql, Docker |
 | [Nodz](https://github.com/zefrenchwan/nodz) | Network science | Random graphs and percolation  demo | Golang, GEXF |
-| [Panorama](https://github.com/zefrenchwan/panorama) | Analytics | Collect data and display trends | Docker, Node.js, Selenium, Python |
+
+## NLP 
+
+|   Name   |   Topic  |  Use case / Purpose | Technologies |
+|---    |:-:  |:-:  |:-:   |
+| [Recueil](https://github.com/zefrenchwan/recueil) | Context understanding | webapp to type tokens | Python, Postgresql, Docker |
+
+## Data collection 
+
+|   Name   |   Topic  |  Use case / Purpose | Technologies |
+|---    |:-:  |:-:  |:-:   |
+| [Monocle](https://github.com/zefrenchwan/monocle) | Standard scraping  | webscraper and content analysis | Python, spaCy |
+| [Aigrefin](https://github.com/zefrenchwan/aigrefin) | Taylormade scraping | testing browser webscraping | Javascript, Selenium |
+
+## Others / Misc / Unsure / Let me code what I want / This tool sounds useful
+
+|   Name   |   Topic  |  Use case / Purpose | Technologies |
+|---    |:-:  |:-:  |:-:   |
+| [Panorama](https://github.com/zefrenchwan/panorama) | Analytics | Collect data and display trends | Docker, Node.js, Postgresql |
+
 
 # May I use your code ? 
 
