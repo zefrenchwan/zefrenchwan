@@ -36,7 +36,6 @@ You will find several projects about my favourites topics.
 |   Name   |   Topic  |  Use case / Purpose | Technologies |
 |---    |:-:  |:-:  |:-:   |
 | [Panorama](https://github.com/zefrenchwan/panorama) | Analytics | Collect data and display trends | Docker, Node.js, Postgresql |
-| [Aigrefin](https://github.com/zefrenchwan/aigrefin) | Taylormade scraping | testing browser webscraping | Selenium |
 
 
 # May I use your code ? 
