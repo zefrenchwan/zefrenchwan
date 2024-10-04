@@ -1,8 +1,10 @@
 # Who are you ? 
 
 * A french developer, old enough to know about java, young enough to not know about cobol.
-* I work as a data engineer: I make data ready to talk using Hadoop and GCP 
+* I code in Node.js (learning), Python and Golang (pro and personal projects), Java (pro), SQL (of course, who does not ?)
+* I work as a data engineer: I make data ready to talk using Hadoop and GCP. Generally spark, sometimes flink or beam
 * Except data engineering per se, I am interested in networks science, NLP and data collection
+* Data viz' also matters to me, it is way easier to understand with a few diagrams
 
 # What do you offer ? 
 
