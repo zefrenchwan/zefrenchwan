@@ -33,12 +33,12 @@ You will find several projects about my favourites topics.
 |---    |:-:  |:-:  |:-:   |
 | [Monocle](https://github.com/zefrenchwan/monocle) | Standard scraping  | webscraper and content analysis | Python, spaCy |
 
-## Others / In progress / Sounds like fun 
+## Others / In progress / Sounds like fun / Need it for work
 
 |   Name   |   Topic  |  Use case / Purpose | Technologies |
 |---    |:-:  |:-:  |:-:   |
 | [Panorama](https://github.com/zefrenchwan/panorama) | Analytics | Collect data and display trends | Docker, Node.js, Postgresql |
-
+| [Calepin](https://github.com/zefrenchwan/calepin) | Training | Technical memo on some work topics | MD files in French |  
 
 # May I use your code ? 
 
