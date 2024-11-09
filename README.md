@@ -9,8 +9,17 @@
 # What do you offer ? 
 
 You will find several projects about my favourites topics. 
+* Some technical notes, about interesting topics (to me) 
 * Some are ready to use, I am quite confident they might be useful or interesting
 * Some are not ready at all and I am working on it
+
+## Training (not data science training, for you to learn about topics)
+
+| Project | Scope |
+|------------|----------------|
+| [Calepin](https://github.com/zefrenchwan/calepin) | Cloud, Bigdata, devops |  
+
+
 
 ## Ready to use 
 
@@ -33,12 +42,11 @@ You will find several projects about my favourites topics.
 |---    |:-:  |:-:  |:-:   |
 | [Monocle](https://github.com/zefrenchwan/monocle) | Standard scraping  | webscraper and content analysis | Python, spaCy |
 
-## Others / In progress / Sounds like fun / Need it for work
+## Others / In progress / Sounds like fun 
 
 |   Name   |   Topic  |  Use case / Purpose | Technologies |
 |---    |:-:  |:-:  |:-:   |
 | [Panorama](https://github.com/zefrenchwan/panorama) | Analytics | Collect data and display trends | Docker, Node.js, Postgresql |
-| [Calepin](https://github.com/zefrenchwan/calepin) | Training | Technical memo on some work topics | MD files in French |  
 
 # May I use your code ? 
 
