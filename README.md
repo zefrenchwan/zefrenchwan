@@ -46,7 +46,12 @@ Note that I usually write in French (I share my notes, so it makes sense that I 
 |---    |:-:  |:-:  |:-:   |
 | [Monocle](https://github.com/zefrenchwan/monocle) | Standard scraping  | webscraper and content analysis | Python, spaCy |
 
-## Others / In progress / Sounds like fun 
+## In progress / good idea to dig on 
+
+Quite busy with Calepin to be honest...
+
+
+## Not working on it anymore / Good idea but no more time 
 
 |   Name   |   Topic  |  Use case / Purpose | Technologies |
 |---    |:-:  |:-:  |:-:   |
