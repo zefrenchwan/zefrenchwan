@@ -51,12 +51,6 @@ Note that I usually write in French (I share my notes, so it makes sense that I 
 Quite busy with Calepin to be honest...
 
 
-## Not working on it anymore / Good idea but no more time 
-
-|   Name   |   Topic  |  Use case / Purpose | Technologies |
-|---    |:-:  |:-:  |:-:   |
-| [Panorama](https://github.com/zefrenchwan/panorama) | Analytics | Collect data and display trends | Docker, Node.js, Postgresql |
-
 # May I use your code ? 
 
 Public code is so far under MIT licence. 
