@@ -1,8 +1,7 @@
 # Who are you ? 
 
 * A mid-life french developer. I work as a data engineer
-* I code in Node.js (learning), Python and Golang (pro and personal projects), Java (pro), SQL (of course, who does not ?)
-* Except data engineering per se, I am interested in networks science, NLP and data collection (including webscraping)
+* I code in Python and Golang (pro and personal projects), Java (pro), SQL (of course, who does not ?)
 
 # What do you offer ? 
 
@@ -48,11 +47,12 @@ Note that I usually write in French (I share my notes, so it makes sense that I 
 
 ## In progress / good idea to dig on 
 
-Quite busy with Calepin to be honest...
+|   Name   |   Topic  |  Use case / Purpose | Technologies |
+|---    |:-:  |:-:  |:-:   |
+| [Scrutateur](https://github.com/zefrenchwan/scrutateur) | Information manager  | Unclear so far, sounds like knowledge management | Golang, postgresql, redis |
 
 
 # May I use your code ? 
 
-Public code is so far under MIT licence. 
-In a nutshell, it means "yes" and "just mention that base code came from here and me". Not a huge price. 
+Of course, this is why it is public and under MIT licence.  
 I hope that my code and related work help you somehow. 
