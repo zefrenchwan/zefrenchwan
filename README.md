@@ -1,6 +1,6 @@
 # Who are you ? 
 
-* A mid-life french developer. I work as a data engineer
+* French developer, working as a data engineer, coding some personal projects to dig some subjects deeper
 * I code in Python and Golang (pro and personal projects), Java (pro), SQL (of course, who does not ?)
 
 # What do you offer ? 
