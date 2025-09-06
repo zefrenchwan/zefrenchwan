@@ -49,8 +49,8 @@ Note that I usually write in French (I share my notes, so it makes sense that I 
 
 |   Name   |   Topic  |  Use case / Purpose | Technologies |
 |---    |:-:  |:-:  |:-:   |
-| [Scrutateur](https://github.com/zefrenchwan/scrutateur) | Information manager  | Unclear so far, sounds like knowledge management | Golang, postgresql, redis, Docker |
-| [Perspectives](https://github.com/zefrenchwan/perspectives) | Events agregator  | Tool to deal with incoming events from observers | Golang, postgresql, Docker |
+| [Scrutateur](https://github.com/zefrenchwan/scrutateur) | Information manager  | Unclear so far, sounds like knowledge management | Golang, postgresql, Docker |
+| [Perspectives](https://github.com/zefrenchwan/perspectives) | Information manager  | Any idea around knowledge representation | Golang |
 
 # May I use your code ? 
 
