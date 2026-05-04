@@ -9,6 +9,11 @@ You will find several projects about my favourites topics.
 * Some technical notes, about interesting topics (to me) 
 * Some are ready to use, I am quite confident they might be useful or interesting
 * Some are not ready at all and I am working on it
+* Some personal ideas, about security, social networks, and AI
+
+## Personal research
+
+I am working on models, such as network science or social networks. Linked repository is: [Grimoire](https://github.com/zefrenchwan/grimoire)
 
 
 ## Training (not data science training, but technical skills improvement)
