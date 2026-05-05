@@ -16,12 +16,15 @@ You will find several projects about my favourites topics.
 I am working on models, such as network science or social networks. Linked repository is: [Grimoire](https://github.com/zefrenchwan/grimoire)
 
 
+| Article | Topic | Goal |
+|----------|-----------|-----------------|
+| [Champs](https://github.com/zefrenchwan/grimoire/blob/main/champs.tex) | Disinformation, Social networks | Explain informational fields and detect disinformation |
+
+
 ## Training (not data science training, but technical skills improvement)
 
 The idea in here is to share some technical notes, usually including code samples. 
 Note that I usually write in French (I share my notes, so it makes sense that I choose French). 
-
-
 
 | Project | Scope | Text language | Code examples |
 |------------|----------------|---------------|----------------|
