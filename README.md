@@ -19,7 +19,7 @@ I am working on models, such as network science or social networks. Linked repos
 | Article | Topic | Goal |
 |----------|-----------|-----------------|
 | [Champs](https://github.com/zefrenchwan/grimoire/blob/main/champs.tex) | Disinformation, Social networks | Explain informational fields and detect disinformation |
-
+| [POC jailbreak](https://github.com/zefrenchwan/grimoire/blob/main/jailbreak.tex) | Disinformation, Social networks | AI jailbreak research |
 
 ## Training (not data science training, but technical skills improvement)
 
